@@ -4,4 +4,4 @@ Frontend:
 https://github.com/noracheung/Face-Recognition
 
 Demo:
-https://peppy-flan-a8df2e.netlify.app/
+https://face-recognition-nora.netlify.app/
